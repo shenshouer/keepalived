@@ -1,5 +1,11 @@
 # keepalived
 
+## build && push
+
+```
+make build && make push
+```
+
 ## Docker image containing Keepalived
 ---
 
